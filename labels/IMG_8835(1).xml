@@ -1,0 +1,33 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>IMG_8835(1).png</filename>
+    <size>
+        <width>2083</width>
+        <height>1659</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>ablation</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>879</xmin>
+            <ymin>21</ymin>
+            <xmax>1182</xmax>
+            <ymax>229</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>ablation</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1955</xmin>
+            <ymin>24</ymin>
+            <xmax>2082</xmax>
+            <ymax>343</ymax>
+        </bndbox>
+    </object>
+</annotation>

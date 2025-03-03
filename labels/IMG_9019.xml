@@ -1,0 +1,21 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>IMG_9019.png</filename>
+    <size>
+        <width>3024</width>
+        <height>3024</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>breakdown</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1490</xmin>
+            <ymin>802</ymin>
+            <xmax>1859</xmax>
+            <ymax>1062</ymax>
+        </bndbox>
+    </object>
+</annotation>

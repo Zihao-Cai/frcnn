@@ -1,0 +1,33 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>IMG_8714(2).png</filename>
+    <size>
+        <width>2159</width>
+        <height>2430</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>ablation</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>437</xmin>
+            <ymin>429</ymin>
+            <xmax>1088</xmax>
+            <ymax>1060</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>ablation</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1800</xmin>
+            <ymin>530</ymin>
+            <xmax>2141</xmax>
+            <ymax>1156</ymax>
+        </bndbox>
+    </object>
+</annotation>

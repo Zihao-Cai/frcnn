@@ -1,0 +1,21 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>IMG_8297(1).png</filename>
+    <size>
+        <width>1764</width>
+        <height>1644</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>groove</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1570</xmin>
+            <ymin>1484</ymin>
+            <xmax>1632</xmax>
+            <ymax>1553</ymax>
+        </bndbox>
+    </object>
+</annotation>

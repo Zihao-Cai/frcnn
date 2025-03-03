@@ -1,0 +1,33 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>IMG_9104.png</filename>
+    <size>
+        <width>3024</width>
+        <height>3024</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>breakdown</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>960</xmin>
+            <ymin>733</ymin>
+            <xmax>1426</xmax>
+            <ymax>964</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>breakdown</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1563</xmin>
+            <ymin>930</ymin>
+            <xmax>1669</xmax>
+            <ymax>1009</ymax>
+        </bndbox>
+    </object>
+</annotation>

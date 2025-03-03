@@ -1,0 +1,21 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>IMG_8735(1).png</filename>
+    <size>
+        <width>2344</width>
+        <height>2057</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>ablation</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>15</xmin>
+            <ymin>1124</ymin>
+            <xmax>580</xmax>
+            <ymax>1234</ymax>
+        </bndbox>
+    </object>
+</annotation>

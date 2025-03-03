@@ -1,0 +1,21 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>IMG_9336.png</filename>
+    <size>
+        <width>3024</width>
+        <height>3024</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>fracture</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1934</xmin>
+            <ymin>1215</ymin>
+            <xmax>2231</xmax>
+            <ymax>1377</ymax>
+        </bndbox>
+    </object>
+</annotation>

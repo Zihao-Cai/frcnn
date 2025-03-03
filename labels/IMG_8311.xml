@@ -1,0 +1,33 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>IMG_8311.png</filename>
+    <size>
+        <width>3024</width>
+        <height>3024</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>groove</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1913</xmin>
+            <ymin>1415</ymin>
+            <xmax>2007</xmax>
+            <ymax>1499</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>groove</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1609</xmin>
+            <ymin>1793</ymin>
+            <xmax>1672</xmax>
+            <ymax>1843</ymax>
+        </bndbox>
+    </object>
+</annotation>

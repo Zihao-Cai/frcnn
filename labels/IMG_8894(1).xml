@@ -1,0 +1,33 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>IMG_8894(1).png</filename>
+    <size>
+        <width>1937</width>
+        <height>2110</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>ablation</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1559</xmin>
+            <ymin>778</ymin>
+            <xmax>1706</xmax>
+            <ymax>985</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>ablation</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1142</xmin>
+            <ymin>1657</ymin>
+            <xmax>1344</xmax>
+            <ymax>1959</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>IMG_8229(1).png</filename>
+    <size>
+        <width>1984</width>
+        <height>1990</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>groove</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>581</xmin>
+            <ymin>26</ymin>
+            <xmax>668</xmax>
+            <ymax>109</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>groove</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>317</xmin>
+            <ymin>509</ymin>
+            <xmax>371</xmax>
+            <ymax>555</ymax>
+        </bndbox>
+    </object>
+</annotation>
